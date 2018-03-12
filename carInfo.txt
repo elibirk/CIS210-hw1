@@ -1,0 +1,4 @@
+Brand: Ford	Color: Red	MPG: 30
+Brand: Toyota	Color: Red	MPG: 30
+Brand: KIA	Color: Blue	MPG: 30
+Brand: Chevy	Color: Green	MPG: 92
